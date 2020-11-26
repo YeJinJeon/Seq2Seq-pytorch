@@ -1,0 +1,7540 @@
+********************************
+Input Words: Airtal
+Target Words: Alrtal
+Response Words: Alrtal
+********************************
+Input Words: MET
+Target Words: MET
+Response Words: MET
+********************************
+Input Words: HTR
+Target Words: HTR
+Response Words: HTR
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: Airtal
+Target Words: Alrtal
+Response Words: Alrtal
+********************************
+Input Words: MET
+Target Words: MET
+Response Words: MET
+********************************
+Input Words: HTR
+Target Words: HTR
+Response Words: HTR
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: HL300
+Target Words: EL300
+Response Words: EL300
+********************************
+Input Words: JYP
+Target Words: JYP
+Response Words: JYP
+********************************
+Input Words: ANG
+Target Words: AMG
+Response Words: A|G
+********************************
+Input Words: MMG
+Target Words: AMG
+Response Words: MMR
+********************************
+Input Words: ACIOS
+Target Words: ACTOS
+Response Words: ACOOS
+********************************
+Input Words: 2|5
+Target Words: 2|5
+Response Words: 2|5
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: J25
+Target Words: J25
+Response Words: J25
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: YH
+Target Words: JY
+Response Words: YH
+********************************
+Input Words: 200
+Target Words: 200
+Response Words: 200
+********************************
+Input Words: 200
+Target Words: 200
+Response Words: 200
+********************************
+Input Words: r
+Target Words: T
+Response Words: T
+********************************
+Input Words: HM
+Target Words: HM
+Response Words: HM
+********************************
+Input Words: K|D
+Target Words: K|D
+Response Words: S|D
+********************************
+Input Words: D|C
+Target Words: D|C
+Response Words: D|C
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: FEI
+Target Words: FET
+Response Words: FEL
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: D|W
+Target Words: D|W
+Response Words: D|W
+********************************
+Input Words: K|D
+Target Words: K|D
+Response Words: S|D
+********************************
+Input Words: J25
+Target Words: J25
+Response Words: J25
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: TH
+Target Words: HM
+Response Words: T|
+********************************
+Input Words: UDCA
+Target Words: UDCA
+Response Words: UDCA
+********************************
+Input Words: JYP
+Target Words: JYP
+Response Words: JYP
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: JYM
+Target Words: JYP
+Response Words: JYP
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 15
+Target Words: 15
+Response Words: 75
+********************************
+Input Words: HTR
+Target Words: HTR
+Response Words: HTR
+********************************
+Input Words: HN
+Target Words: HM
+Response Words: H|
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: JYP
+Target Words: JYP
+Response Words: JYP
+********************************
+Input Words: 1G
+Target Words: 16
+Response Words: 15
+********************************
+Input Words: 16
+Target Words: 16
+Response Words: 15
+********************************
+Input Words: T
+Target Words: T
+Response Words: T
+********************************
+Input Words: ME7
+Target Words: MET
+Response Words: MET
+********************************
+Input Words: HRR
+Target Words: HTR
+Response Words: HTR
+********************************
+Input Words: MET
+Target Words: MET
+Response Words: MET
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: HS
+Target Words: ES
+Response Words: ES
+********************************
+Input Words: D|C
+Target Words: D|C
+Response Words: D|C
+********************************
+Input Words: HIR
+Target Words: HTR
+Response Words: HTR
+********************************
+Input Words: Z5
+Target Words: ZS
+Response Words: |5
+********************************
+Input Words: D|C
+Target Words: D|C
+Response Words: D|C
+********************************
+Input Words: HTR
+Target Words: HTR
+Response Words: HTR
+********************************
+Input Words: FT
+Target Words: FT
+Response Words: FT
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: ACTOS
+Target Words: ACTOS
+Response Words: ACTOS
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: HM
+Target Words: HM
+Response Words: HM
+********************************
+Input Words: J25
+Target Words: J25
+Response Words: J25
+********************************
+Input Words: ACTOS
+Target Words: ACTOS
+Response Words: ACTOS
+********************************
+Input Words: J2M
+Target Words: JYP
+Response Words: JYG
+********************************
+Input Words: 118
+Target Words: 118
+Response Words: 118
+********************************
+Input Words: UDCA
+Target Words: UDCA
+Response Words: UDCA
+********************************
+Input Words: FRT
+Target Words: FET
+Response Words: FET
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: HL300
+Target Words: EL300
+Response Words: EL300
+********************************
+Input Words: Airtal
+Target Words: Alrtal
+Response Words: Alrtal
+********************************
+Input Words: JYR
+Target Words: JYP
+Response Words: JYP
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: ACTOS
+Target Words: ACTOS
+Response Words: ACTOS
+********************************
+Input Words: 2|5
+Target Words: 2|5
+Response Words: 2|5
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: HTR
+Target Words: HTR
+Response Words: HTR
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: MET
+Target Words: MET
+Response Words: MET
+********************************
+Input Words: YH
+Target Words: YH
+Response Words: YH
+********************************
+Input Words: HTR
+Target Words: HTR
+Response Words: HTR
+********************************
+Input Words: JYP
+Target Words: JYP
+Response Words: JYP
+********************************
+Input Words: D|C
+Target Words: D|C
+Response Words: D|C
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: D|W
+Target Words: D|W
+Response Words: D|W
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: 16
+Target Words: 16
+Response Words: 15
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: HL300
+Target Words: EL300
+Response Words: EL300
+********************************
+Input Words: ACTOS
+Target Words: ACTOS
+Response Words: ACTOS
+********************************
+Input Words: AM8
+Target Words: AMG
+Response Words: AMO
+********************************
+Input Words: 2|5
+Target Words: 2|5
+Response Words: 2|5
+********************************
+Input Words: HTR
+Target Words: HTR
+Response Words: HTR
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: MET
+Target Words: MET
+Response Words: MET
+********************************
+Input Words: JYP
+Target Words: JYP
+Response Words: JYP
+********************************
+Input Words: D-W
+Target Words: D-W
+Response Words: D-W
+********************************
+Input Words: OFX
+Target Words: OFX
+Response Words: FEL
+********************************
+Input Words: Airtal
+Target Words: Alrtal
+Response Words: Alrtal
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: BM
+Target Words: BM
+Response Words: BM
+********************************
+Input Words: B3
+Target Words: B3
+Response Words: B3
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: ATL
+Target Words: ATV
+Response Words: ATS
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: HIR
+Target Words: HTR
+Response Words: HTR
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: D|W
+Target Words: D|W
+Response Words: D|W
+********************************
+Input Words: ATY
+Target Words: ATV
+Response Words: ATV
+********************************
+Input Words: HIR
+Target Words: HTR
+Response Words: HTR
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: HL300
+Target Words: EL300
+Response Words: EL300
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 15
+Target Words: 15
+Response Words: 75
+********************************
+Input Words: |25
+Target Words: J25
+Response Words: 2|5
+********************************
+Input Words: MET
+Target Words: MET
+Response Words: MET
+********************************
+Input Words: UDCA
+Target Words: UDCA
+Response Words: UDCA
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: 200
+Target Words: 200
+Response Words: 200
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: DK
+Target Words: DK
+Response Words: DK
+********************************
+Input Words: ADCX
+Target Words: ADCX
+Response Words: ADCX
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: D|W
+Target Words: D|W
+Response Words: D|W
+********************************
+Input Words: FT
+Target Words: FT
+Response Words: FT
+********************************
+Input Words: ATV
+Target Words: ATV
+Response Words: ATV
+********************************
+Input Words: A|G
+Target Words: A|G
+Response Words: A|G
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: AMG
+Target Words: AMG
+Response Words: AMG
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: FET
+Target Words: FET
+Response Words: FET
+********************************
+Input Words: 80
+Target Words: 30
+Response Words: 80
+********************************
+Input Words: K|D
+Target Words: K|D
+Response Words: S|D
+********************************
+Input Words: EL300
+Target Words: EL300
+Response Words: EL300
+********************************
+Input Words: 2|5
+Target Words: 2|5
+Response Words: 2|5
+********************************
+Input Words: 200
+Target Words: 200
+Response Words: 200
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: 118
+Target Words: 118
+Response Words: 118
+********************************
+Input Words: FHI
+Target Words: FET
+Response Words: FET
+********************************
+Input Words: 5K
+Target Words: SK
+Response Words: S<EOS>
+********************************
+Input Words: D|C
+Target Words: D|C
+Response Words: D|C
+********************************
+Input Words: ATV
+Target Words: ATV
+Response Words: ATV
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: Airtal
+Target Words: Alrtal
+Response Words: Alrtal
+********************************
+Input Words: Z5
+Target Words: ZS
+Response Words: |5
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: MET
+Target Words: MET
+Response Words: MET
+********************************
+Input Words: D|C
+Target Words: D|C
+Response Words: D|C
+********************************
+Input Words: EL300
+Target Words: EL300
+Response Words: EL300
+********************************
+Input Words: B|W
+Target Words: D|W
+Response Words: B|W
+********************************
+Input Words: HTR
+Target Words: HTR
+Response Words: HTR
+********************************
+Input Words: JYR
+Target Words: JYP
+Response Words: JYP
+********************************
+Input Words: H5
+Target Words: ES
+Response Words: H5
+********************************
+Input Words: J25
+Target Words: J25
+Response Words: J25
+********************************
+Input Words: CX
+Target Words: JY
+Response Words: AT
+********************************
+Input Words: JY
+Target Words: CX
+Response Words: JY
+********************************
+Input Words: FT
+Target Words: FT
+Response Words: FT
+********************************
+Input Words: Z5
+Target Words: ZS
+Response Words: |5
+********************************
+Input Words: A|G
+Target Words: A|G
+Response Words: A|G
+********************************
+Input Words: 2|5
+Target Words: 2|5
+Response Words: 2|5
+********************************
+Input Words: 2|5
+Target Words: 2|5
+Response Words: 2|5
+********************************
+Input Words: UDCA
+Target Words: UDCA
+Response Words: UDCA
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: DG
+Target Words: OG
+Response Words: DG
+********************************
+Input Words: 33
+Target Words: 33
+Response Words: 33
+********************************
+Input Words: BS
+Target Words: ES
+Response Words: SE
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: FT
+Target Words: FT
+Response Words: FT
+********************************
+Input Words: 5K
+Target Words: SK
+Response Words: S<EOS>
+********************************
+Input Words: FET
+Target Words: FET
+Response Words: FET
+********************************
+Input Words: ATV
+Target Words: ATV
+Response Words: ATV
+********************************
+Input Words: YH
+Target Words: YH
+Response Words: YH
+********************************
+Input Words: ATV
+Target Words: ATV
+Response Words: ATV
+********************************
+Input Words: ATV
+Target Words: ATV
+Response Words: ATV
+********************************
+Input Words: D|W
+Target Words: D|W
+Response Words: D|W
+********************************
+Input Words: 200
+Target Words: 200
+Response Words: 200
+********************************
+Input Words: UDCA
+Target Words: UDCA
+Response Words: UDCA
+********************************
+Input Words: HS
+Target Words: ES
+Response Words: ES
+********************************
+Input Words: ATI
+Target Words: ATV
+Response Words: ATO
+********************************
+Input Words: ACTOS
+Target Words: ACTOS
+Response Words: ACTOS
+********************************
+Input Words: HM
+Target Words: HM
+Response Words: HM
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: LWG
+Target Words: AMG
+Response Words: ML<EOS>
+********************************
+Input Words: 55
+Target Words: ES
+Response Words: 75
+********************************
+Input Words: T
+Target Words: T
+Response Words: T
+********************************
+Input Words: RN>
+Target Words: ANT
+Response Words: ANT
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: D|C
+Target Words: D|C
+Response Words: D|C
+********************************
+Input Words: DK
+Target Words: DK
+Response Words: DK
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 118
+Target Words: 118
+Response Words: 118
+********************************
+Input Words: A|G
+Target Words: A|G
+Response Words: A|G
+********************************
+Input Words: 2|5
+Target Words: 2|5
+Response Words: 2|5
+********************************
+Input Words: 16
+Target Words: 16
+Response Words: 15
+********************************
+Input Words: YH
+Target Words: YH
+Response Words: YH
+********************************
+Input Words: AMG
+Target Words: AMG
+Response Words: AMG
+********************************
+Input Words: B5
+Target Words: ES
+Response Words: E5
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: HTR
+Target Words: HTR
+Response Words: HTR
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: |
+Target Words: T
+Response Words: |
+********************************
+Input Words: 15
+Target Words: 16
+Response Words: 75
+********************************
+Input Words: 33
+Target Words: OG
+Response Words: 33
+********************************
+Input Words: DG
+Target Words: 33
+Response Words: DG
+********************************
+Input Words: ACTOS
+Target Words: ACTOS
+Response Words: ACTOS
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: 2|5
+Target Words: 2|5
+Response Words: 2|5
+********************************
+Input Words: HM
+Target Words: HM
+Response Words: HM
+********************************
+Input Words: 16
+Target Words: 16
+Response Words: 15
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: A|G
+Target Words: A|G
+Response Words: A|G
+********************************
+Input Words: 200
+Target Words: 200
+Response Words: 200
+********************************
+Input Words: HL300
+Target Words: EL300
+Response Words: EL300
+********************************
+Input Words: D|W
+Target Words: D|W
+Response Words: D|W
+********************************
+Input Words: D|C
+Target Words: D|C
+Response Words: D|C
+********************************
+Input Words: HM
+Target Words: HM
+Response Words: HM
+********************************
+Input Words: ACTOS
+Target Words: ACTOS
+Response Words: ACTOS
+********************************
+Input Words: YH
+Target Words: YH
+Response Words: YH
+********************************
+Input Words: ME1
+Target Words: MET
+Response Words: MET
+********************************
+Input Words: 00
+Target Words: OG
+Response Words: G0
+********************************
+Input Words: 38
+Target Words: 33
+Response Words: 33
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: UDCA
+Target Words: UDCA
+Response Words: UDCA
+********************************
+Input Words: 2|5
+Target Words: 2|5
+Response Words: 2|5
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: UDCA
+Target Words: UDCA
+Response Words: UDCA
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: D|W
+Target Words: D|W
+Response Words: D|W
+********************************
+Input Words: 16
+Target Words: 16
+Response Words: 15
+********************************
+Input Words: HM
+Target Words: HM
+Response Words: HM
+********************************
+Input Words: K|D
+Target Words: K|D
+Response Words: S|D
+********************************
+Input Words: HL300
+Target Words: EL300
+Response Words: EL300
+********************************
+Input Words: 00
+Target Words: OG
+Response Words: G0
+********************************
+Input Words: 33
+Target Words: 33
+Response Words: 33
+********************************
+Input Words: |
+Target Words: T
+Response Words: |
+********************************
+Input Words: D|C
+Target Words: D|C
+Response Words: D|C
+********************************
+Input Words: |Y
+Target Words: YH
+Response Words: ||
+********************************
+Input Words: 2|5
+Target Words: 2|5
+Response Words: 2|5
+********************************
+Input Words: ATV
+Target Words: ATV
+Response Words: ATV
+********************************
+Input Words: 16
+Target Words: 16
+Response Words: 15
+********************************
+Input Words: 33
+Target Words: OG
+Response Words: 33
+********************************
+Input Words: 00
+Target Words: 33
+Response Words: G0
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: DS
+Target Words: OG
+Response Words: SL
+********************************
+Input Words: 33
+Target Words: 33
+Response Words: 33
+********************************
+Input Words: D|W
+Target Words: D|W
+Response Words: D|W
+********************************
+Input Words: FT
+Target Words: FT
+Response Words: FT
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: HM
+Target Words: HM
+Response Words: HM
+********************************
+Input Words: 118
+Target Words: 118
+Response Words: 118
+********************************
+Input Words: 80
+Target Words: 30
+Response Words: 80
+********************************
+Input Words: HIR
+Target Words: HTR
+Response Words: HTR
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: ATV
+Target Words: ATV
+Response Words: ATV
+********************************
+Input Words: 1G
+Target Words: 16
+Response Words: 15
+********************************
+Input Words: 200
+Target Words: 200
+Response Words: 200
+********************************
+Input Words: YH
+Target Words: JY
+Response Words: YH
+********************************
+Input Words: Airtal
+Target Words: Alrtal
+Response Words: Alrtal
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: AMG
+Target Words: AMG
+Response Words: AMG
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: J25
+Target Words: J25
+Response Words: J25
+********************************
+Input Words: T
+Target Words: T
+Response Words: T
+********************************
+Input Words: ZS
+Target Words: ZS
+Response Words: XS
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: 30
+Target Words: 30
+Response Words: 30
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: D|W
+Target Words: D|W
+Response Words: D|W
+********************************
+Input Words: OMP
+Target Words: OMP
+Response Words: OMP
+********************************
+Input Words: r
+Target Words: T
+Response Words: T
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: AMG
+Target Words: AMG
+Response Words: AMG
+********************************
+Input Words: 1
+Target Words: T
+Response Words: 1
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: FT
+Target Words: FT
+Response Words: FT
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: FT
+Target Words: FT
+Response Words: FT
+********************************
+Input Words: A|G
+Target Words: A|G
+Response Words: A|G
+********************************
+Input Words: T
+Target Words: T
+Response Words: T
+********************************
+Input Words: D|C
+Target Words: D|C
+Response Words: D|C
+********************************
+Input Words: r
+Target Words: T
+Response Words: T
+********************************
+Input Words: JYL
+Target Words: JYP
+Response Words: JYP
+********************************
+Input Words: (JY
+Target Words: JYP
+Response Words: JYP
+********************************
+Input Words: 80
+Target Words: 30
+Response Words: 80
+********************************
+Input Words: T
+Target Words: T
+Response Words: T
+********************************
+Input Words: HTR
+Target Words: HTR
+Response Words: HTR
+********************************
+Input Words: MET
+Target Words: MET
+Response Words: MET
+********************************
+Input Words: 200
+Target Words: 200
+Response Words: 200
+********************************
+Input Words: BM
+Target Words: BM
+Response Words: BM
+********************************
+Input Words: B3
+Target Words: B3
+Response Words: B3
+********************************
+Input Words: D-W
+Target Words: D-W
+Response Words: D-W
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: 15
+Target Words: 15
+Response Words: 75
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: J1
+Target Words: JY
+Response Words: J1
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: ATY
+Target Words: ATV
+Response Words: ATV
+********************************
+Input Words: D|C
+Target Words: D|C
+Response Words: D|C
+********************************
+Input Words: BM
+Target Words: BM
+Response Words: BM
+********************************
+Input Words: B3
+Target Words: B3
+Response Words: B3
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: D|W
+Target Words: D|W
+Response Words: D|W
+********************************
+Input Words: K|D
+Target Words: K|D
+Response Words: S|D
+********************************
+Input Words: K|D
+Target Words: K|D
+Response Words: S|D
+********************************
+Input Words: HJR
+Target Words: HTR
+Response Words: HTR
+********************************
+Input Words: ADCX
+Target Words: ADCX
+Response Words: ADCX
+********************************
+Input Words: MET
+Target Words: MET
+Response Words: MET
+********************************
+Input Words: ACT05
+Target Words: ACTOS
+Response Words: ACTOS
+********************************
+Input Words: YH
+Target Words: JY
+Response Words: YH
+********************************
+Input Words: BM
+Target Words: BM
+Response Words: BM
+********************************
+Input Words: 2|5
+Target Words: 2|5
+Response Words: 2|5
+********************************
+Input Words: D|W
+Target Words: D|W
+Response Words: D|W
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: UNCA
+Target Words: UDCA
+Response Words: UDCA
+********************************
+Input Words: 33
+Target Words: OG
+Response Words: 33
+********************************
+Input Words: 00
+Target Words: 33
+Response Words: G0
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: HN
+Target Words: HM
+Response Words: H|
+********************************
+Input Words: D|C
+Target Words: D|C
+Response Words: D|C
+********************************
+Input Words: ADCX
+Target Words: ADCX
+Response Words: ADCX
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: ACTOS
+Target Words: ACTOS
+Response Words: ACTOS
+********************************
+Input Words: 2|5
+Target Words: 2|5
+Response Words: 2|5
+********************************
+Input Words: HTR
+Target Words: HTR
+Response Words: HTR
+********************************
+Input Words: LV
+Target Words: LV
+Response Words: LL
+********************************
+Input Words: 16
+Target Words: 16
+Response Words: 15
+********************************
+Input Words: 16
+Target Words: 16
+Response Words: 15
+********************************
+Input Words: 20
+Target Words: JY
+Response Words: 20
+********************************
+Input Words: JY
+Target Words: 20
+Response Words: JY
+********************************
+Input Words: -
+Target Words: |
+Response Words: T
+********************************
+Input Words: |
+Target Words: D
+Response Words: |
+********************************
+Input Words: FB
+Target Words: FB
+Response Words: FB
+********************************
+Input Words: CNL
+Target Words: CNL
+Response Words: CNL
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: DG
+Target Words: DG
+Response Words: DG
+********************************
+Input Words: FE7
+Target Words: FE7
+Response Words: FE7
+********************************
+Input Words: GS
+Target Words: GS
+Response Words: GS
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: 008
+Target Words: 008
+Response Words: 008
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 140
+Target Words: G40
+Response Words: G40
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: AT
+Target Words: AT
+Response Words: AT
+********************************
+Input Words: J1
+Target Words: J1
+Response Words: J1
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 750
+Target Words: 750
+Response Words: 750
+********************************
+Input Words: T|R
+Target Words: T|R
+Response Words: T|R
+********************************
+Input Words: JN
+Target Words: jw
+Response Words: jw
+********************************
+Input Words: S
+Target Words: S
+Response Words: S
+********************************
+Input Words: T
+Target Words: T
+Response Words: T
+********************************
+Input Words: 5D
+Target Words: S1
+Response Words: S1
+********************************
+Input Words: LV
+Target Words: LV
+Response Words: LL
+********************************
+Input Words: CNL
+Target Words: CNL
+Response Words: CNL
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: X|S
+Target Words: X|S
+Response Words: X|S
+********************************
+Input Words: B|80
+Target Words: G|80
+Response Words: G|80
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 125
+Target Words: 125
+Response Words: 125
+********************************
+Input Words: 1000
+Target Words: 1000
+Response Words: 1000
+********************************
+Input Words: ANA
+Target Words: ANT
+Response Words: ANT
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: A4
+Target Words: AZ
+Response Words: AS
+********************************
+Input Words: D.W
+Target Words: D.W
+Response Words: D.W
+********************************
+Input Words: D
+Target Words: D
+Response Words: D
+********************************
+Input Words: Calteo
+Target Words: Calteo
+Response Words: Calteo
+********************************
+Input Words: G40
+Target Words: G40
+Response Words: G40
+********************************
+Input Words: 81
+Target Words: 81
+Response Words: 81
+********************************
+Input Words: 952
+Target Words: 952
+Response Words: 952
+********************************
+Input Words: RS
+Target Words: JY
+Response Words: RS
+********************************
+Input Words: JY
+Target Words: RS
+Response Words: JY
+********************************
+Input Words: H3
+Target Words: H3
+Response Words: H3
+********************************
+Input Words: 750
+Target Words: 750
+Response Words: 750
+********************************
+Input Words: TG
+Target Words: TG
+Response Words: TG
+********************************
+Input Words: 016
+Target Words: 016
+Response Words: 012
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: FE7
+Target Words: FE7
+Response Words: FE7
+********************************
+Input Words: GS
+Target Words: GS
+Response Words: GS
+********************************
+Input Words: X|S
+Target Words: X|S
+Response Words: X|S
+********************************
+Input Words: S
+Target Words: S
+Response Words: S
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: C|M
+Target Words: C|M
+Response Words: C|M
+********************************
+Input Words: JN
+Target Words: jw
+Response Words: jw
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: JTA
+Target Words: JTA
+Response Words: JTA
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: 20
+Target Words: 20
+Response Words: 20
+********************************
+Input Words: OMP
+Target Words: OMP
+Response Words: OMP
+********************************
+Input Words: NVR
+Target Words: NVR
+Response Words: NVR
+********************************
+Input Words: AT
+Target Words: AT
+Response Words: AT
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: DG
+Target Words: DG
+Response Words: DG
+********************************
+Input Words: NVR
+Target Words: NVR
+Response Words: NVR
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: DX
+Target Words: DX
+Response Words: DX
+********************************
+Input Words: FE7
+Target Words: FE7
+Response Words: FE7
+********************************
+Input Words: GS
+Target Words: GS
+Response Words: GS
+********************************
+Input Words: MTS
+Target Words: MTS
+Response Words: MTS
+********************************
+Input Words: D|5
+Target Words: D|5
+Response Words: D|5
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: LV
+Target Words: LV
+Response Words: LL
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: 750
+Target Words: 750
+Response Words: 750
+********************************
+Input Words: ry
+Target Words: ry
+Response Words: ry
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: H3
+Target Words: H3
+Response Words: H3
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: RS
+Target Words: RS
+Response Words: RS
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: X|S
+Target Words: X|S
+Response Words: X|S
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 150
+Target Words: 150
+Response Words: 150
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: CCCOR
+Target Words: CICOR
+Response Words: CICOR
+********************************
+Input Words: SL8
+Target Words: SL8
+Response Words: SL8
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: S1
+Target Words: S1
+Response Words: S1
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 1
+Target Words: 1
+Response Words: 1
+********************************
+Input Words: |
+Target Words: T
+Response Words: |
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 2510
+Target Words: 2510
+Response Words: 2510
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: JI
+Target Words: JI
+Response Words: JI
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: NVR
+Target Words: NVR
+Response Words: NVR
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 008
+Target Words: 008
+Response Words: 008
+********************************
+Input Words: NL
+Target Words: NL
+Response Words: NL
+********************************
+Input Words: 250
+Target Words: 250
+Response Words: 250
+********************************
+Input Words: Y|CU
+Target Words: G|80
+Response Words: A|2I
+********************************
+Input Words: jw
+Target Words: jw
+Response Words: jw
+********************************
+Input Words: B|M
+Target Words: B|M
+Response Words: B|M
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: CG
+Target Words: CG
+Response Words: CG
+********************************
+Input Words: DG
+Target Words: DG
+Response Words: DG
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: Cossac-L
+Target Words: Cossac-L
+Response Words: Cossac-L
+********************************
+Input Words: 952
+Target Words: 952
+Response Words: 952
+********************************
+Input Words: jw
+Target Words: jw
+Response Words: jw
+********************************
+Input Words: J|Y
+Target Words: J|Y
+Response Words: J|Y
+********************************
+Input Words: 2
+Target Words: 2
+Response Words: 2
+********************************
+Input Words: 016
+Target Words: 016
+Response Words: 012
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: ry
+Target Words: ry
+Response Words: ry
+********************************
+Input Words: Hanmi
+Target Words: Hanmi
+Response Words: Hanmi
+********************************
+Input Words: A
+Target Words: A
+Response Words: A
+********************************
+Input Words: CNL
+Target Words: CNL
+Response Words: CNL
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: ANA275
+Target Words: ANA275
+Response Words: ANA275
+********************************
+Input Words: 750
+Target Words: 750
+Response Words: 750
+********************************
+Input Words: C200
+Target Words: C200
+Response Words: C200
+********************************
+Input Words: G40
+Target Words: G40
+Response Words: G40
+********************************
+Input Words: UNITED
+Target Words: UNITED
+Response Words: UNITED
+********************************
+Input Words: G
+Target Words: G
+Response Words: C
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: Noltec10
+Target Words: Noltec10
+Response Words: Noltec10
+********************************
+Input Words: S1
+Target Words: S1
+Response Words: S1
+********************************
+Input Words: C|N2
+Target Words: C|N2
+Response Words: C|N2
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: S
+Target Words: S
+Response Words: S
+********************************
+Input Words: R5
+Target Words: R5
+Response Words: R5
+********************************
+Input Words: OMP
+Target Words: OMP
+Response Words: OMP
+********************************
+Input Words: 750
+Target Words: 750
+Response Words: 750
+********************************
+Input Words: C|N2
+Target Words: C|N2
+Response Words: C|N2
+********************************
+Input Words: 5050
+Target Words: 5050
+Response Words: 5050
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: S50
+Target Words: S50
+Response Words: S50
+********************************
+Input Words: 1000
+Target Words: 1000
+Response Words: 1000
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: 016
+Target Words: 016
+Response Words: 012
+********************************
+Input Words: 81
+Target Words: 81
+Response Words: 81
+********************************
+Input Words: FB
+Target Words: FB
+Response Words: FB
+********************************
+Input Words: C|N2
+Target Words: C|N2
+Response Words: C|N2
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: LV
+Target Words: LV
+Response Words: LL
+********************************
+Input Words: CH
+Target Words: CH
+Response Words: C|
+********************************
+Input Words: C
+Target Words: C
+Response Words: C
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: 2
+Target Words: 2
+Response Words: 2
+********************************
+Input Words: JTA
+Target Words: JTA
+Response Words: JTA
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: 250
+Target Words: 250
+Response Words: 250
+********************************
+Input Words: 250
+Target Words: 250
+Response Words: 250
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: H|L
+Target Words: H|L
+Response Words: H|L
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 012
+Target Words: 012
+Response Words: 012
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: |
+Target Words: T
+Response Words: |
+********************************
+Input Words: AT
+Target Words: AT
+Response Words: AT
+********************************
+Input Words: S50
+Target Words: S50
+Response Words: S50
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: CG
+Target Words: CG
+Response Words: CG
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: PC
+Target Words: PC
+Response Words: PC
+********************************
+Input Words: D|5
+Target Words: D|5
+Response Words: D|5
+********************************
+Input Words: 125
+Target Words: 125
+Response Words: 125
+********************************
+Input Words: 15
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 015
+Target Words: 015
+Response Words: 015
+********************************
+Input Words: Hanmi
+Target Words: Hanmi
+Response Words: Hanmi
+********************************
+Input Words: FE7
+Target Words: FE7
+Response Words: FE7
+********************************
+Input Words: GS
+Target Words: GS
+Response Words: GS
+********************************
+Input Words: MTS
+Target Words: MTS
+Response Words: MTS
+********************************
+Input Words: X|S
+Target Words: X|S
+Response Words: X|S
+********************************
+Input Words: A|G
+Target Words: A|G
+Response Words: A|G
+********************************
+Input Words: J25
+Target Words: J25
+Response Words: J25
+********************************
+Input Words: A|M
+Target Words: A|M
+Response Words: A|M
+********************************
+Input Words: 015
+Target Words: 015
+Response Words: 015
+********************************
+Input Words: 018
+Target Words: 018
+Response Words: 018
+********************************
+Input Words: AT
+Target Words: AT
+Response Words: AT
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: D.W
+Target Words: D.W
+Response Words: D.W
+********************************
+Input Words: NL
+Target Words: NL
+Response Words: NL
+********************************
+Input Words: J|Y
+Target Words: J|Y
+Response Words: J|Y
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: Calteo
+Target Words: Calteo
+Response Words: Calteo
+********************************
+Input Words: LV
+Target Words: LV
+Response Words: LL
+********************************
+Input Words: J|Y
+Target Words: J|Y
+Response Words: J|Y
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: 015
+Target Words: 015
+Response Words: 015
+********************************
+Input Words: 5050
+Target Words: 5050
+Response Words: 5050
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: FB
+Target Words: FB
+Response Words: FB
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: 140
+Target Words: G40
+Response Words: G40
+********************************
+Input Words: 302
+Target Words: 302
+Response Words: 302
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: X|S
+Target Words: X|S
+Response Words: X|S
+********************************
+Input Words: HGH
+Target Words: HGH
+Response Words: HGH
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: 1
+Target Words: 1
+Response Words: 1
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: C|M
+Target Words: C|M
+Response Words: C|M
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: G4C
+Target Words: G40
+Response Words: G20
+********************************
+Input Words: ||M
+Target Words: B|M
+Response Words: ||M
+********************************
+Input Words: PC
+Target Words: PC
+Response Words: PC
+********************************
+Input Words: Calteo
+Target Words: Calteo
+Response Words: Calteo
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: B|6
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: C
+Target Words: C
+Response Words: C
+********************************
+Input Words: 20
+Target Words: 20
+Response Words: 20
+********************************
+Input Words: CG
+Target Words: CG
+Response Words: CG
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: 302
+Target Words: 302
+Response Words: 302
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: SL8
+Target Words: SL8
+Response Words: SL8
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: A
+Target Words: A
+Response Words: A
+********************************
+Input Words: CG
+Target Words: CG
+Response Words: CG
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: T4
+Target Words: T4
+Response Words: T4
+********************************
+Input Words: 1:
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: 015
+Target Words: 015
+Response Words: 015
+********************************
+Input Words: Calteo
+Target Words: Calteo
+Response Words: Calteo
+********************************
+Input Words: 016
+Target Words: 016
+Response Words: 012
+********************************
+Input Words: D|5
+Target Words: D|5
+Response Words: D|5
+********************************
+Input Words: ry
+Target Words: ry
+Response Words: ry
+********************************
+Input Words: A
+Target Words: A
+Response Words: A
+********************************
+Input Words: D
+Target Words: D
+Response Words: D
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: (5
+Target Words: 75
+Response Words: S5
+********************************
+Input Words: H3
+Target Words: H3
+Response Words: H3
+********************************
+Input Words: 5
+Target Words: S
+Response Words: 5
+********************************
+Input Words: S50
+Target Words: S50
+Response Words: S50
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: ANA275
+Target Words: ANA275
+Response Words: ANA275
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: |
+Target Words: S
+Response Words: |
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: JTA
+Target Words: JTA
+Response Words: JTA
+********************************
+Input Words: J25
+Target Words: J25
+Response Words: J25
+********************************
+Input Words: R5
+Target Words: R5
+Response Words: R5
+********************************
+Input Words: 125
+Target Words: 125
+Response Words: 125
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: X|S
+Target Words: X|S
+Response Words: X|S
+********************************
+Input Words: Y|
+Target Words: PC
+Response Words: Y|
+********************************
+Input Words: UT
+Target Words: UT
+Response Words: UT
+********************************
+Input Words: SEARLE
+Target Words: SEARLE
+Response Words: SEARLE
+********************************
+Input Words: 30
+Target Words: 39
+Response Words: 30
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: G
+Target Words: G
+Response Words: C
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: JJ
+Target Words: DG
+Response Words: JY
+********************************
+Input Words: A|G
+Target Words: A|G
+Response Words: A|G
+********************************
+Input Words: 150
+Target Words: 150
+Response Words: 150
+********************************
+Input Words: AT
+Target Words: AT
+Response Words: AT
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: MTS
+Target Words: MTS
+Response Words: MTS
+********************************
+Input Words: H3
+Target Words: H3
+Response Words: H3
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: UNITED
+Target Words: UNITED
+Response Words: UNITED
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 1000
+Target Words: 1000
+Response Words: 1000
+********************************
+Input Words: T|R
+Target Words: T|R
+Response Words: T|R
+********************************
+Input Words: C|N2
+Target Words: C|N2
+Response Words: C|N2
+********************************
+Input Words: S1
+Target Words: S1
+Response Words: S1
+********************************
+Input Words: A|G
+Target Words: A|G
+Response Words: A|G
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: X|S
+Target Words: X|S
+Response Words: X|S
+********************************
+Input Words: A|M
+Target Words: A|M
+Response Words: A|M
+********************************
+Input Words: UT
+Target Words: UT
+Response Words: UT
+********************************
+Input Words: NL
+Target Words: NL
+Response Words: NL
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: 500
+Target Words: 500
+Response Words: 500
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 81
+Target Words: 81
+Response Words: 81
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: H|3
+Target Words: H|3
+Response Words: H|3
+********************************
+Input Words: 5050
+Target Words: 5050
+Response Words: 5050
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: LV
+Target Words: LV
+Response Words: LL
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: LV
+Target Words: LV
+Response Words: LL
+********************************
+Input Words: 018
+Target Words: 018
+Response Words: 018
+********************************
+Input Words: HGH
+Target Words: HGH
+Response Words: HGH
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 125
+Target Words: 125
+Response Words: 125
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 2510
+Target Words: 2510
+Response Words: 2510
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: 750
+Target Words: 750
+Response Words: 750
+********************************
+Input Words: C200
+Target Words: C200
+Response Words: C200
+********************************
+Input Words: OMP
+Target Words: OMP
+Response Words: OMP
+********************************
+Input Words: jw
+Target Words: jw
+Response Words: jw
+********************************
+Input Words: H|L
+Target Words: H|L
+Response Words: H|L
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: MTS
+Target Words: MTS
+Response Words: MTS
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: MTS
+Target Words: MTS
+Response Words: MTS
+********************************
+Input Words: G
+Target Words: G
+Response Words: C
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: 2510
+Target Words: 2510
+Response Words: 2510
+********************************
+Input Words: C|M
+Target Words: C|M
+Response Words: C|M
+********************************
+Input Words: 008
+Target Words: 008
+Response Words: 008
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: J|Y
+Target Words: J|Y
+Response Words: J|Y
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: S
+Target Words: S
+Response Words: S
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: J1
+Target Words: J1
+Response Words: J1
+********************************
+Input Words: 500
+Target Words: 500
+Response Words: 500
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: LV
+Target Words: LV
+Response Words: LL
+********************************
+Input Words: Noltec10
+Target Words: Noltec10
+Response Words: Noltec10
+********************************
+Input Words: DG
+Target Words: DG
+Response Words: DG
+********************************
+Input Words: DX
+Target Words: DX
+Response Words: DX
+********************************
+Input Words: D-W
+Target Words: D-W
+Response Words: D-W
+********************************
+Input Words: JY
+Target Words: RS
+Response Words: JY
+********************************
+Input Words: RS
+Target Words: JY
+Response Words: RS
+********************************
+Input Words: C
+Target Words: C
+Response Words: C
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: SR
+Target Words: SR
+Response Words: SR
+********************************
+Input Words: NVR
+Target Words: NVR
+Response Words: NVR
+********************************
+Input Words: 015
+Target Words: 015
+Response Words: 015
+********************************
+Input Words: 952
+Target Words: 952
+Response Words: 952
+********************************
+Input Words: UT
+Target Words: UT
+Response Words: UT
+********************************
+Input Words: A|M
+Target Words: A|M
+Response Words: A|M
+********************************
+Input Words: S50
+Target Words: S50
+Response Words: S50
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: CD
+Target Words: CD
+Response Words: CD
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: COL
+Target Words: COL
+Response Words: COL
+********************************
+Input Words: LJ
+Target Words: 20
+Response Words: S1
+********************************
+Input Words: D
+Target Words: D
+Response Words: D
+********************************
+Input Words: CD
+Target Words: CD
+Response Words: CD
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: RS
+Target Words: JY
+Response Words: RS
+********************************
+Input Words: JY
+Target Words: RS
+Response Words: JY
+********************************
+Input Words: AT
+Target Words: AT
+Response Words: AT
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: Cossac-L
+Target Words: Cossac-L
+Response Words: Cossac-L
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: T4
+Target Words: T4
+Response Words: T4
+********************************
+Input Words: 012
+Target Words: 012
+Response Words: 012
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: FB
+Target Words: FB
+Response Words: FB
+********************************
+Input Words: C200
+Target Words: C200
+Response Words: C200
+********************************
+Input Words: H3
+Target Words: H3
+Response Words: H3
+********************************
+Input Words: 150
+Target Words: 150
+Response Words: 150
+********************************
+Input Words: 250
+Target Words: 250
+Response Words: 250
+********************************
+Input Words: AT
+Target Words: AT
+Response Words: AT
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: G
+Target Words: G
+Response Words: C
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: UT
+Target Words: UT
+Response Words: UT
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: 750
+Target Words: 750
+Response Words: 750
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: Calteo
+Target Words: Calteo
+Response Words: Calteo
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: S50
+Target Words: S50
+Response Words: S50
+********************************
+Input Words: D
+Target Words: D
+Response Words: D
+********************************
+Input Words: Calteo
+Target Words: Calteo
+Response Words: Calteo
+********************************
+Input Words: |
+Target Words: T
+Response Words: |
+********************************
+Input Words: D|5
+Target Words: D|5
+Response Words: D|5
+********************************
+Input Words: X|S
+Target Words: X|S
+Response Words: X|S
+********************************
+Input Words: 018
+Target Words: 018
+Response Words: 018
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: 012
+Target Words: 012
+Response Words: 012
+********************************
+Input Words: FH|6
+Target Words: FH|6
+Response Words: FH|6
+********************************
+Input Words: H3
+Target Words: H3
+Response Words: H3
+********************************
+Input Words: FE7
+Target Words: FE7
+Response Words: FE7
+********************************
+Input Words: GS
+Target Words: GS
+Response Words: GS
+********************************
+Input Words: DG
+Target Words: DG
+Response Words: DG
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: A|
+Target Words: NL
+Response Words: A|
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: D.W
+Target Words: D.W
+Response Words: D.W
+********************************
+Input Words: FB
+Target Words: FB
+Response Words: FB
+********************************
+Input Words: ANA275
+Target Words: ANA275
+Response Words: ANA275
+********************************
+Input Words: D-W
+Target Words: D-W
+Response Words: D-W
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: C4
+Target Words: T4
+Response Words: CL
+********************************
+Input Words: 02V
+Target Words: 021
+Response Words: 021
+********************************
+Input Words: DC
+Target Words: PC
+Response Words: DC
+********************************
+Input Words: HGH
+Target Words: HGH
+Response Words: HGH
+********************************
+Input Words: SL8
+Target Words: SL8
+Response Words: SL8
+********************************
+Input Words: 008
+Target Words: 008
+Response Words: 008
+********************************
+Input Words: C
+Target Words: C
+Response Words: C
+********************************
+Input Words: C4
+Target Words: T4
+Response Words: CL
+********************************
+Input Words: H|3
+Target Words: H|3
+Response Words: H|3
+********************************
+Input Words: D5
+Target Words: D5
+Response Words: D5
+********************************
+Input Words: Y|
+Target Words: ry
+Response Words: Y|
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: T|R
+Target Words: T|R
+Response Words: T|R
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: RS
+Target Words: JY
+Response Words: RS
+********************************
+Input Words: JY
+Target Words: RS
+Response Words: JY
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: JTA
+Target Words: JTA
+Response Words: JTA
+********************************
+Input Words: -V
+Target Words: AV
+Response Words: TS
+********************************
+Input Words: D5
+Target Words: D5
+Response Words: D5
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: X|S
+Target Words: X|S
+Response Words: X|S
+********************************
+Input Words: 4|3
+Target Words: H|3
+Response Words: N|<EOS>
+********************************
+Input Words: 5010
+Target Words: 5010
+Response Words: 5010
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: 20
+Target Words: 20
+Response Words: 20
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: |
+Target Words: 1
+Response Words: |
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: COL
+Target Words: COL
+Response Words: COL
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: 125
+Target Words: 125
+Response Words: 125
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: S1
+Target Words: S1
+Response Words: S1
+********************************
+Input Words: Noltec10
+Target Words: Noltec10
+Response Words: Noltec10
+********************************
+Input Words: 302
+Target Words: 302
+Response Words: 302
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 81
+Target Words: 81
+Response Words: 81
+********************************
+Input Words: D
+Target Words: D
+Response Words: D
+********************************
+Input Words: JY
+Target Words: RS
+Response Words: JY
+********************************
+Input Words: RS
+Target Words: JY
+Response Words: RS
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: |4
+Target Words: T4
+Response Words: |S
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 952
+Target Words: 952
+Response Words: 952
+********************************
+Input Words: 5050
+Target Words: 5050
+Response Words: 5050
+********************************
+Input Words: A
+Target Words: A
+Response Words: A
+********************************
+Input Words: H|L
+Target Words: H|L
+Response Words: H|L
+********************************
+Input Words: 5050
+Target Words: 5050
+Response Words: 5050
+********************************
+Input Words: 150
+Target Words: 150
+Response Words: 150
+********************************
+Input Words: 008
+Target Words: 008
+Response Words: 008
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: A|M
+Target Words: A|M
+Response Words: A|M
+********************************
+Input Words: |
+Target Words: T
+Response Words: |
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: D-W
+Target Words: D-W
+Response Words: D-W
+********************************
+Input Words: |
+Target Words: T
+Response Words: |
+********************************
+Input Words: J25
+Target Words: J25
+Response Words: J25
+********************************
+Input Words: FH|6
+Target Words: FH|6
+Response Words: FH|6
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: Calteo
+Target Words: Calteo
+Response Words: Calteo
+********************************
+Input Words: RS
+Target Words: JY
+Response Words: RS
+********************************
+Input Words: JY
+Target Words: RS
+Response Words: JY
+********************************
+Input Words: 5050
+Target Words: 5050
+Response Words: 5050
+********************************
+Input Words: D.W
+Target Words: D.W
+Response Words: D.W
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: R5
+Target Words: R5
+Response Words: R5
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: D
+Target Words: D
+Response Words: D
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: FB
+Target Words: FB
+Response Words: FB
+********************************
+Input Words: H|3
+Target Words: H|3
+Response Words: H|3
+********************************
+Input Words: KH
+Target Words: KH
+Response Words: KH
+********************************
+Input Words: 0HL
+Target Words: 021
+Response Words: 018
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: RS
+Target Words: RS
+Response Words: RS
+********************************
+Input Words: G40
+Target Words: G40
+Response Words: G40
+********************************
+Input Words: jw
+Target Words: jw
+Response Words: jw
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: ANA275
+Target Words: ANA275
+Response Words: ANA275
+********************************
+Input Words: S50
+Target Words: S50
+Response Words: S50
+********************************
+Input Words: C|N2
+Target Words: C|N2
+Response Words: C|N2
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: D
+Target Words: D
+Response Words: D
+********************************
+Input Words: 014
+Target Words: 012
+Response Words: 012
+********************************
+Input Words: NVR
+Target Words: NVR
+Response Words: NVR
+********************************
+Input Words: OMP
+Target Words: OMP
+Response Words: OMP
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: PC
+Target Words: PC
+Response Words: PC
+********************************
+Input Words: T4
+Target Words: T4
+Response Words: T4
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: UNITED
+Target Words: UNITED
+Response Words: UNITED
+********************************
+Input Words: ANA275
+Target Words: ANA275
+Response Words: ANA275
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: FB
+Target Words: FB
+Response Words: FB
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: T|R
+Target Words: T|R
+Response Words: T|R
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: 150
+Target Words: 150
+Response Words: 150
+********************************
+Input Words: NL
+Target Words: NL
+Response Words: NL
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: Calteo
+Target Words: Calteo
+Response Words: Calteo
+********************************
+Input Words: G40
+Target Words: G40
+Response Words: G40
+********************************
+Input Words: AD
+Target Words: AD
+Response Words: AD
+********************************
+Input Words: 1
+Target Words: 1
+Response Words: 1
+********************************
+Input Words: 012
+Target Words: 012
+Response Words: 012
+********************************
+Input Words: Calteo
+Target Words: Calteo
+Response Words: Calteo
+********************************
+Input Words: 500
+Target Words: 500
+Response Words: 500
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 016
+Target Words: 016
+Response Words: 012
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: DX
+Target Words: DX
+Response Words: DX
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: CNX
+Target Words: ANT
+Response Words: ANT
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: 250
+Target Words: 250
+Response Words: 250
+********************************
+Input Words: 952
+Target Words: 952
+Response Words: 952
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: C200
+Target Words: C200
+Response Words: C200
+********************************
+Input Words: 250
+Target Words: 250
+Response Words: 250
+********************************
+Input Words: 016
+Target Words: 016
+Response Words: 012
+********************************
+Input Words: 015
+Target Words: 015
+Response Words: 015
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: HGH
+Target Words: HGH
+Response Words: HGH
+********************************
+Input Words: H3
+Target Words: H3
+Response Words: H3
+********************************
+Input Words: D-W
+Target Words: D-W
+Response Words: D-W
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: SL8
+Target Words: SL8
+Response Words: SL8
+********************************
+Input Words: 20
+Target Words: 20
+Response Words: 20
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: COL
+Target Words: COL
+Response Words: COL
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: YG
+Target Words: FB
+Response Words: JY
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 20
+Target Words: 20
+Response Words: 20
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: 125
+Target Words: 125
+Response Words: 125
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: NVR
+Target Words: NVR
+Response Words: NVR
+********************************
+Input Words: NL
+Target Words: NL
+Response Words: NL
+********************************
+Input Words: |
+Target Words: D
+Response Words: |
+********************************
+Input Words: UT
+Target Words: UT
+Response Words: UT
+********************************
+Input Words: FH|6
+Target Words: FH|6
+Response Words: FH|6
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: D.W
+Target Words: D.W
+Response Words: D.W
+********************************
+Input Words: ry
+Target Words: ry
+Response Words: ry
+********************************
+Input Words: RS
+Target Words: JY
+Response Words: RS
+********************************
+Input Words: JY
+Target Words: RS
+Response Words: JY
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: J|Y
+Target Words: J|Y
+Response Words: J|Y
+********************************
+Input Words: D.W
+Target Words: D.W
+Response Words: D.W
+********************************
+Input Words: RS
+Target Words: JY
+Response Words: RS
+********************************
+Input Words: JY
+Target Words: RS
+Response Words: JY
+********************************
+Input Words: 500
+Target Words: 500
+Response Words: 500
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: G
+Target Words: G
+Response Words: C
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: T|R
+Target Words: T|R
+Response Words: T|R
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: 1000
+Target Words: 1000
+Response Words: 1000
+********************************
+Input Words: H|L
+Target Words: H|L
+Response Words: H|L
+********************************
+Input Words: DU
+Target Words: DG
+Response Words: D0
+********************************
+Input Words: Calteo
+Target Words: Calteo
+Response Words: Calteo
+********************************
+Input Words: JN
+Target Words: jw
+Response Words: jw
+********************************
+Input Words: H3
+Target Words: H3
+Response Words: H3
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: KK
+Target Words: BK
+Response Words: SK
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: 125
+Target Words: 125
+Response Words: 125
+********************************
+Input Words: 302
+Target Words: 302
+Response Words: 302
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: SL8
+Target Words: SL8
+Response Words: SL8
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: FB
+Target Words: FB
+Response Words: FB
+********************************
+Input Words: SL8
+Target Words: SL8
+Response Words: SL8
+********************************
+Input Words: J1
+Target Words: J1
+Response Words: J1
+********************************
+Input Words: 20
+Target Words: JY
+Response Words: 20
+********************************
+Input Words: JY
+Target Words: 20
+Response Words: JY
+********************************
+Input Words: 20
+Target Words: 20
+Response Words: 20
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: CNL
+Target Words: CNL
+Response Words: CNL
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: D
+Target Words: D
+Response Words: D
+********************************
+Input Words: D-W
+Target Words: D-W
+Response Words: D-W
+********************************
+Input Words: DG
+Target Words: DG
+Response Words: DG
+********************************
+Input Words: ANA275
+Target Words: ANA275
+Response Words: ANA275
+********************************
+Input Words: 016
+Target Words: 016
+Response Words: 012
+********************************
+Input Words: (K
+Target Words: BK
+Response Words: SK
+********************************
+Input Words: Calteo
+Target Words: Calteo
+Response Words: Calteo
+********************************
+Input Words: AT
+Target Words: AT
+Response Words: AT
+********************************
+Input Words: OMP
+Target Words: OMP
+Response Words: OMP
+********************************
+Input Words: PC
+Target Words: PC
+Response Words: PC
+********************************
+Input Words: T4
+Target Words: T4
+Response Words: T4
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: JTA
+Target Words: JTA
+Response Words: JTA
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: A
+Target Words: A
+Response Words: A
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: AT
+Target Words: AT
+Response Words: AT
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: H3
+Target Words: H3
+Response Words: H3
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: A|G
+Target Words: A|G
+Response Words: A|G
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: |
+Target Words: T
+Response Words: |
+********************************
+Input Words: Naxozol
+Target Words: Naxozol
+Response Words: Naxozol
+********************************
+Input Words: 302
+Target Words: 302
+Response Words: 302
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: CXL
+Target Words: CXL
+Response Words: ANL
+********************************
+Input Words: 4
+Target Words: 4
+Response Words: 4
+********************************
+Input Words: 015
+Target Words: 015
+Response Words: 015
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: ANA275
+Target Words: ANA275
+Response Words: ANA275
+********************************
+Input Words: JTA
+Target Words: JTA
+Response Words: JTA
+********************************
+Input Words: 018
+Target Words: 018
+Response Words: 018
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 2510
+Target Words: 2510
+Response Words: 2510
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 500
+Target Words: 500
+Response Words: 500
+********************************
+Input Words: SEARLE
+Target Words: SEARLE
+Response Words: SEARLE
+********************************
+Input Words: 30
+Target Words: 39
+Response Words: 30
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: S50
+Target Words: S50
+Response Words: S50
+********************************
+Input Words: JV
+Target Words: jw
+Response Words: jw
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: 5
+Target Words: D
+Response Words: 5
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: ry
+Target Words: ry
+Response Words: ry
+********************************
+Input Words: GDOR
+Target Words: GDOP
+Response Words: GDOR
+********************************
+Input Words: 750
+Target Words: 750
+Response Words: 750
+********************************
+Input Words: 2
+Target Words: 2
+Response Words: 2
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: D|5
+Target Words: D|5
+Response Words: D|5
+********************************
+Input Words: CD
+Target Words: CD
+Response Words: CD
+********************************
+Input Words: 5010
+Target Words: 5010
+Response Words: 5010
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: PC
+Target Words: PC
+Response Words: PC
+********************************
+Input Words: MTS
+Target Words: MTS
+Response Words: MTS
+********************************
+Input Words: 1000
+Target Words: 1000
+Response Words: 1000
+********************************
+Input Words: C|M
+Target Words: C|M
+Response Words: C|M
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: S50
+Target Words: S50
+Response Words: S50
+********************************
+Input Words: CG
+Target Words: CG
+Response Words: CG
+********************************
+Input Words: 2510
+Target Words: 2510
+Response Words: 2510
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: Calteo
+Target Words: Calteo
+Response Words: Calteo
+********************************
+Input Words: Cossac-L
+Target Words: Cossac-L
+Response Words: Cossac-L
+********************************
+Input Words: BK
+Target Words: BK
+Response Words: BK
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: AT
+Target Words: AT
+Response Words: AT
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: 012
+Target Words: 012
+Response Words: 012
+********************************
+Input Words: C|M
+Target Words: C|M
+Response Words: C|M
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: AD
+Target Words: AD
+Response Words: AD
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: SEARLE
+Target Words: SEARLE
+Response Words: SEARLE
+********************************
+Input Words: 30
+Target Words: 39
+Response Words: 30
+********************************
+Input Words: FE7
+Target Words: FE7
+Response Words: FE7
+********************************
+Input Words: GS
+Target Words: GS
+Response Words: GS
+********************************
+Input Words: H|L
+Target Words: H|L
+Response Words: H|L
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: J25
+Target Words: J25
+Response Words: J25
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: 008
+Target Words: 008
+Response Words: 008
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: |
+Target Words: S
+Response Words: |
+********************************
+Input Words: HGH
+Target Words: HGH
+Response Words: HGH
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 5050
+Target Words: 5050
+Response Words: 5050
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: G40
+Target Words: G40
+Response Words: G40
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: SR
+Target Words: SR
+Response Words: SR
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: A
+Target Words: A
+Response Words: A
+********************************
+Input Words: CG
+Target Words: CG
+Response Words: CG
+********************************
+Input Words: 018
+Target Words: 018
+Response Words: 018
+********************************
+Input Words: X|S
+Target Words: X|S
+Response Words: X|S
+********************************
+Input Words: 5050
+Target Words: 5050
+Response Words: 5050
+********************************
+Input Words: J25
+Target Words: J25
+Response Words: J25
+********************************
+Input Words: R5
+Target Words: R5
+Response Words: R5
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: T
+Target Words: T
+Response Words: T
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 20
+Target Words: 20
+Response Words: 20
+********************************
+Input Words: NVR
+Target Words: NVR
+Response Words: NVR
+********************************
+Input Words: 125
+Target Words: 125
+Response Words: 125
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: NVR
+Target Words: NVR
+Response Words: NVR
+********************************
+Input Words: S1
+Target Words: S1
+Response Words: S1
+********************************
+Input Words: 0
+Target Words: G
+Response Words: G
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: RS
+Target Words: RS
+Response Words: RS
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 018
+Target Words: 018
+Response Words: 018
+********************************
+Input Words: 012
+Target Words: 012
+Response Words: 012
+********************************
+Input Words: JG
+Target Words: CG
+Response Words: JG
+********************************
+Input Words: 20
+Target Words: 20
+Response Words: 20
+********************************
+Input Words: 250
+Target Words: 250
+Response Words: 250
+********************************
+Input Words: J1
+Target Words: J1
+Response Words: J1
+********************************
+Input Words: H|L
+Target Words: H|L
+Response Words: H|L
+********************************
+Input Words: H|S
+Target Words: H|3
+Response Words: H|3
+********************************
+Input Words: B1
+Target Words: 81
+Response Words: 81
+********************************
+Input Words: CD
+Target Words: CD
+Response Words: CD
+********************************
+Input Words: NVR
+Target Words: NVR
+Response Words: NVR
+********************************
+Input Words: ry
+Target Words: ry
+Response Words: ry
+********************************
+Input Words: LV
+Target Words: LV
+Response Words: LL
+********************************
+Input Words: UT
+Target Words: UT
+Response Words: UT
+********************************
+Input Words: UNITED
+Target Words: UNITED
+Response Words: UNITED
+********************************
+Input Words: 016
+Target Words: 016
+Response Words: 012
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: HGH
+Target Words: HGH
+Response Words: HGH
+********************************
+Input Words: D.W
+Target Words: D.W
+Response Words: D.W
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: JA
+Target Words: 75
+Response Words: JY
+********************************
+Input Words: Noltec10
+Target Words: Noltec10
+Response Words: Noltec10
+********************************
+Input Words: T|R
+Target Words: T|R
+Response Words: T|R
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: 500
+Target Words: 500
+Response Words: 500
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: NL
+Target Words: NL
+Response Words: NL
+********************************
+Input Words: 20
+Target Words: 20
+Response Words: 20
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: SEARLE
+Target Words: SEARLE
+Response Words: SEARLE
+********************************
+Input Words: 38
+Target Words: 39
+Response Words: 33
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: 015
+Target Words: 015
+Response Words: 015
+********************************
+Input Words: 1000
+Target Words: 1000
+Response Words: 1000
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: 20
+Target Words: JY
+Response Words: 20
+********************************
+Input Words: JY
+Target Words: 20
+Response Words: JY
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: H|L
+Target Words: H|L
+Response Words: H|L
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: C|N2
+Target Words: C|N2
+Response Words: C|N2
+********************************
+Input Words: NL
+Target Words: NL
+Response Words: NL
+********************************
+Input Words: J25
+Target Words: J25
+Response Words: J25
+********************************
+Input Words: Cossac-L
+Target Words: Cossac-L
+Response Words: Cossac-L
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: C200
+Target Words: C200
+Response Words: C200
+********************************
+Input Words: H|L
+Target Words: H|L
+Response Words: H|L
+********************************
+Input Words: |
+Target Words: D
+Response Words: |
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: -
+Target Words: 5
+Response Words: T
+********************************
+Input Words: FH|6
+Target Words: FH|6
+Response Words: FH|6
+********************************
+Input Words: 2510
+Target Words: 2510
+Response Words: 2510
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: C|M
+Target Words: C|M
+Response Words: C|M
+********************************
+Input Words: MTS
+Target Words: MTS
+Response Words: MTS
+********************************
+Input Words: CD
+Target Words: CD
+Response Words: CD
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: 5|M
+Target Words: C|M
+Response Words: C|M
+********************************
+Input Words: 154
+Target Words: 750
+Response Words: 750
+********************************
+Input Words: CG
+Target Words: CG
+Response Words: CG
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: JTA
+Target Words: JTA
+Response Words: JTA
+********************************
+Input Words: H|L
+Target Words: H|L
+Response Words: H|L
+********************************
+Input Words: 150
+Target Words: 150
+Response Words: 150
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: 1000
+Target Words: 1000
+Response Words: 1000
+********************************
+Input Words: J1
+Target Words: J1
+Response Words: J1
+********************************
+Input Words: PC
+Target Words: PC
+Response Words: PC
+********************************
+Input Words: JI
+Target Words: JI
+Response Words: JI
+********************************
+Input Words: A|G
+Target Words: A|G
+Response Words: A|G
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: UNITED
+Target Words: UNITED
+Response Words: UNITED
+********************************
+Input Words: A|M
+Target Words: A|M
+Response Words: A|M
+********************************
+Input Words: FH|6
+Target Words: FH|6
+Response Words: FH|6
+********************************
+Input Words: OMP
+Target Words: OMP
+Response Words: OMP
+********************************
+Input Words: DX
+Target Words: DX
+Response Words: DX
+********************************
+Input Words: 20
+Target Words: 20
+Response Words: 20
+********************************
+Input Words: jw
+Target Words: jw
+Response Words: jw
+********************************
+Input Words: JI
+Target Words: JI
+Response Words: JI
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 125
+Target Words: 125
+Response Words: 125
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: AZ
+Target Words: AZ
+Response Words: AG
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: jw
+Target Words: jw
+Response Words: jw
+********************************
+Input Words: 018
+Target Words: 018
+Response Words: 018
+********************************
+Input Words: 125
+Target Words: 125
+Response Words: 125
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: 5010
+Target Words: 5010
+Response Words: 5010
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: C200
+Target Words: C200
+Response Words: C200
+********************************
+Input Words: BD
+Target Words: BD
+Response Words: BD
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: H|L
+Target Words: H|L
+Response Words: H|L
+********************************
+Input Words: BK
+Target Words: BK
+Response Words: BK
+********************************
+Input Words: CG
+Target Words: CG
+Response Words: CG
+********************************
+Input Words: MTS
+Target Words: MTS
+Response Words: MTS
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: J1
+Target Words: J1
+Response Words: J1
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: CG
+Target Words: CG
+Response Words: CG
+********************************
+Input Words: 5050
+Target Words: 5050
+Response Words: 5050
+********************************
+Input Words: RS
+Target Words: RS
+Response Words: RS
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 008
+Target Words: 008
+Response Words: 008
+********************************
+Input Words: RS
+Target Words: RS
+Response Words: RS
+********************************
+Input Words: S1
+Target Words: JY
+Response Words: S1
+********************************
+Input Words: C200
+Target Words: C200
+Response Words: C200
+********************************
+Input Words: 018
+Target Words: 018
+Response Words: 018
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: RS
+Target Words: RS
+Response Words: RS
+********************************
+Input Words: C
+Target Words: C
+Response Words: C
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: JZ
+Target Words: AZ
+Response Words: JY
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: C|M
+Target Words: C|M
+Response Words: C|M
+********************************
+Input Words: DG
+Target Words: DG
+Response Words: DG
+********************************
+Input Words: |
+Target Words: T
+Response Words: |
+********************************
+Input Words: Noltec10
+Target Words: Noltec10
+Response Words: Noltec10
+********************************
+Input Words: 5
+Target Words: S
+Response Words: 5
+********************************
+Input Words: 1
+Target Words: 1
+Response Words: 1
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: J|Y
+Target Words: J|Y
+Response Words: J|Y
+********************************
+Input Words: S
+Target Words: S
+Response Words: S
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: G180
+Target Words: G|80
+Response Words: G|80
+********************************
+Input Words: H3
+Target Words: H3
+Response Words: H3
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: NVR
+Target Words: NVR
+Response Words: NVR
+********************************
+Input Words: |N
+Target Words: 50
+Response Words: |0
+********************************
+Input Words: H|L
+Target Words: H|L
+Response Words: H|L
+********************************
+Input Words: X|S
+Target Words: X|S
+Response Words: X|S
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 2
+Target Words: 2
+Response Words: 2
+********************************
+Input Words: 500
+Target Words: 500
+Response Words: 500
+********************************
+Input Words: C200
+Target Words: C200
+Response Words: C200
+********************************
+Input Words: Cossac-L
+Target Words: Cossac-L
+Response Words: Cossac-L
+********************************
+Input Words: RS
+Target Words: RS
+Response Words: RS
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: 81
+Target Words: 81
+Response Words: 81
+********************************
+Input Words: COL
+Target Words: COL
+Response Words: COL
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: D
+Target Words: D
+Response Words: D
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: PC
+Target Words: PC
+Response Words: PC
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: D.V
+Target Words: D.W
+Response Words: D.W
+********************************
+Input Words: 500/20
+Target Words: 500/20
+Response Words: 500/20
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: RS
+Target Words: JY
+Response Words: RS
+********************************
+Input Words: AZ
+Target Words: AZ
+Response Words: AG
+********************************
+Input Words: ry
+Target Words: ry
+Response Words: ry
+********************************
+Input Words: J1
+Target Words: J1
+Response Words: J1
+********************************
+Input Words: D|5
+Target Words: D|5
+Response Words: D|5
+********************************
+Input Words: 008
+Target Words: 008
+Response Words: 008
+********************************
+Input Words: UNITED
+Target Words: UNITED
+Response Words: UNITED
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: LV
+Target Words: LV
+Response Words: LL
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 302
+Target Words: 302
+Response Words: 302
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: PC
+Target Words: PC
+Response Words: PC
+********************************
+Input Words: DG
+Target Words: DG
+Response Words: DG
+********************************
+Input Words: 150
+Target Words: 150
+Response Words: 150
+********************************
+Input Words: D-W
+Target Words: D-W
+Response Words: D-W
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: D.W
+Target Words: D.W
+Response Words: D.W
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: MTS
+Target Words: MTS
+Response Words: MTS
+********************************
+Input Words: 150
+Target Words: 150
+Response Words: 150
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 20
+Target Words: 20
+Response Words: 20
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: UT
+Target Words: UT
+Response Words: UT
+********************************
+Input Words: CG
+Target Words: CG
+Response Words: CG
+********************************
+Input Words: 750
+Target Words: 750
+Response Words: 750
+********************************
+Input Words: C
+Target Words: C
+Response Words: C
+********************************
+Input Words: 5050
+Target Words: 5050
+Response Words: 5050
+********************************
+Input Words: T4
+Target Words: T4
+Response Words: T4
+********************************
+Input Words: LV
+Target Words: LV
+Response Words: LL
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: 250
+Target Words: 250
+Response Words: 250
+********************************
+Input Words: Noltec10
+Target Words: Noltec10
+Response Words: Noltec10
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: C
+Target Words: C
+Response Words: C
+********************************
+Input Words: C200
+Target Words: C200
+Response Words: C200
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 20
+Target Words: 20
+Response Words: 20
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: NL
+Target Words: NL
+Response Words: NL
+********************************
+Input Words: TG
+Target Words: AD
+Response Words: TG
+********************************
+Input Words: 1
+Target Words: 1
+Response Words: 1
+********************************
+Input Words: 018
+Target Words: 018
+Response Words: 018
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: 500
+Target Words: 500
+Response Words: 500
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 952
+Target Words: 952
+Response Words: 952
+********************************
+Input Words: J|Y
+Target Words: J|Y
+Response Words: J|Y
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: FH|6
+Target Words: FH|6
+Response Words: FH|6
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 1
+Target Words: 1
+Response Words: 1
+********************************
+Input Words: FH|6
+Target Words: FH|6
+Response Words: FH|6
+********************************
+Input Words: COL
+Target Words: COL
+Response Words: COL
+********************************
+Input Words: D5
+Target Words: D5
+Response Words: D5
+********************************
+Input Words: S50
+Target Words: S50
+Response Words: S50
+********************************
+Input Words: CNL
+Target Words: CNL
+Response Words: CNL
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: 40
+Target Words: 20
+Response Words: 40
+********************************
+Input Words: D|5
+Target Words: D|5
+Response Words: D|5
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: AT
+Target Words: AT
+Response Words: AT
+********************************
+Input Words: Calteo
+Target Words: Calteo
+Response Words: Calteo
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: NA2750
+Target Words: ANA275
+Response Words: ANA275
+********************************
+Input Words: |5
+Target Words: R5
+Response Words: |5
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: ANA275
+Target Words: ANA275
+Response Words: ANA275
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: H3
+Target Words: H3
+Response Words: H3
+********************************
+Input Words: MTS
+Target Words: MTS
+Response Words: MTS
+********************************
+Input Words: CG
+Target Words: CG
+Response Words: CG
+********************************
+Input Words: RS
+Target Words: JY
+Response Words: RS
+********************************
+Input Words: JY
+Target Words: RS
+Response Words: JY
+********************************
+Input Words: 20
+Target Words: 20
+Response Words: 20
+********************************
+Input Words: 008
+Target Words: 008
+Response Words: 008
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: 2
+Target Words: 2
+Response Words: 2
+********************************
+Input Words: Cossac-L
+Target Words: Cossac-L
+Response Words: Cossac-L
+********************************
+Input Words: J1
+Target Words: J1
+Response Words: J1
+********************************
+Input Words: 125
+Target Words: 125
+Response Words: 125
+********************************
+Input Words: SL8
+Target Words: SL8
+Response Words: SL8
+********************************
+Input Words: 1
+Target Words: 1
+Response Words: 1
+********************************
+Input Words: 008
+Target Words: 008
+Response Words: 008
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: D
+Target Words: D
+Response Words: D
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 750
+Target Words: 750
+Response Words: 750
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: 01
+Target Words: 81
+Response Words: 01
+********************************
+Input Words: 500
+Target Words: 500
+Response Words: 500
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: UT
+Target Words: UT
+Response Words: UT
+********************************
+Input Words: AZ
+Target Words: AZ
+Response Words: AG
+********************************
+Input Words: D-W
+Target Words: D-W
+Response Words: D-W
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: J|Y
+Target Words: J|Y
+Response Words: J|Y
+********************************
+Input Words: S50
+Target Words: S50
+Response Words: S50
+********************************
+Input Words: UT
+Target Words: UT
+Response Words: UT
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: DC
+Target Words: DG
+Response Words: DC
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: 5050
+Target Words: 5050
+Response Words: 5050
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 952
+Target Words: 952
+Response Words: 952
+********************************
+Input Words: 500/20
+Target Words: 500/20
+Response Words: 500/20
+********************************
+Input Words: 150
+Target Words: 150
+Response Words: 150
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: |
+Target Words: S
+Response Words: |
+********************************
+Input Words: 018
+Target Words: 018
+Response Words: 018
+********************************
+Input Words: RS
+Target Words: RS
+Response Words: RS
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: AT
+Target Words: AT
+Response Words: AT
+********************************
+Input Words: Noltec10
+Target Words: Noltec10
+Response Words: Noltec10
+********************************
+Input Words: H3
+Target Words: H3
+Response Words: H3
+********************************
+Input Words: 008
+Target Words: 008
+Response Words: 008
+********************************
+Input Words: FB
+Target Words: FB
+Response Words: FB
+********************************
+Input Words: H3
+Target Words: H3
+Response Words: H3
+********************************
+Input Words: 1000
+Target Words: 1000
+Response Words: 1000
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: H|L
+Target Words: H|L
+Response Words: H|L
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: D|5
+Target Words: D|5
+Response Words: D|5
+********************************
+Input Words: J25
+Target Words: J25
+Response Words: J25
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: J|
+Target Words: JY
+Response Words: J|
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: |
+Target Words: T
+Response Words: |
+********************************
+Input Words: J1
+Target Words: J1
+Response Words: J1
+********************************
+Input Words: G40
+Target Words: G40
+Response Words: G40
+********************************
+Input Words: 250
+Target Words: 250
+Response Words: 250
+********************************
+Input Words: CICOR
+Target Words: CICOR
+Response Words: CICOR
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: 20
+Target Words: JY
+Response Words: 20
+********************************
+Input Words: JY
+Target Words: 20
+Response Words: JY
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: UT
+Target Words: UT
+Response Words: UT
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: DG
+Target Words: DG
+Response Words: DG
+********************************
+Input Words: G
+Target Words: G
+Response Words: C
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: J|Y
+Target Words: J|Y
+Response Words: J|Y
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: 81
+Target Words: 81
+Response Words: 81
+********************************
+Input Words: 015
+Target Words: 015
+Response Words: 015
+********************************
+Input Words: ry
+Target Words: ry
+Response Words: ry
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: 1
+Target Words: T
+Response Words: 1
+********************************
+Input Words: JI
+Target Words: JI
+Response Words: JI
+********************************
+Input Words: R5
+Target Words: R5
+Response Words: R5
+********************************
+Input Words: C|NI
+Target Words: C|NI
+Response Words: C|NI
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: |
+Target Words: D
+Response Words: |
+********************************
+Input Words: KH
+Target Words: KH
+Response Words: KH
+********************************
+Input Words: 02V
+Target Words: 021
+Response Words: 021
+********************************
+Input Words: 2
+Target Words: 2
+Response Words: 2
+********************************
+Input Words: AT
+Target Words: AT
+Response Words: AT
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 016
+Target Words: 016
+Response Words: 012
+********************************
+Input Words: RS
+Target Words: JY
+Response Words: RS
+********************************
+Input Words: JY
+Target Words: RS
+Response Words: JY
+********************************
+Input Words: A|G
+Target Words: A|G
+Response Words: A|G
+********************************
+Input Words: T|R
+Target Words: T|R
+Response Words: T|R
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 2
+Target Words: 2
+Response Words: 2
+********************************
+Input Words: DUU
+Target Words: 500
+Response Words: 500
+********************************
+Input Words: 1
+Target Words: 1
+Response Words: 1
+********************************
+Input Words: C|N2
+Target Words: C|N2
+Response Words: C|N2
+********************************
+Input Words: 5050
+Target Words: 5050
+Response Words: 5050
+********************************
+Input Words: J|Y
+Target Words: J|Y
+Response Words: J|Y
+********************************
+Input Words: C|NI
+Target Words: C|NI
+Response Words: C|NI
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: 250
+Target Words: 250
+Response Words: 250
+********************************
+Input Words: AZ
+Target Words: AZ
+Response Words: AG
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: BK
+Target Words: BK
+Response Words: BK
+********************************
+Input Words: AZ
+Target Words: AZ
+Response Words: AG
+********************************
+Input Words: 5)
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: JTA
+Target Words: JTA
+Response Words: JTA
+********************************
+Input Words: 250
+Target Words: 250
+Response Words: 250
+********************************
+Input Words: T
+Target Words: T
+Response Words: T
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: ry
+Target Words: ry
+Response Words: ry
+********************************
+Input Words: A|M
+Target Words: A|M
+Response Words: A|M
+********************************
+Input Words: 018
+Target Words: 018
+Response Words: 018
+********************************
+Input Words: C200
+Target Words: C200
+Response Words: C200
+********************************
+Input Words: 302
+Target Words: 302
+Response Words: 302
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: AZ
+Target Words: AZ
+Response Words: AG
+********************************
+Input Words: jw
+Target Words: jw
+Response Words: jw
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: AX
+Target Words: CG
+Response Words: AT
+********************************
+Input Words: 1
+Target Words: T
+Response Words: 1
+********************************
+Input Words: Calteo
+Target Words: Calteo
+Response Words: Calteo
+********************************
+Input Words: S50
+Target Words: S50
+Response Words: S50
+********************************
+Input Words: FB
+Target Words: FB
+Response Words: FB
+********************************
+Input Words: C|M
+Target Words: C|M
+Response Words: C|M
+********************************
+Input Words: (1
+Target Words: BK
+Response Words: 75
+********************************
+Input Words: A|G
+Target Words: A|G
+Response Words: A|G
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 20
+Target Words: 20
+Response Words: 20
+********************************
+Input Words: JK
+Target Words: SK
+Response Words: S<EOS>
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: D
+Target Words: D
+Response Words: D
+********************************
+Input Words: C200
+Target Words: C200
+Response Words: C200
+********************************
+Input Words: 5010
+Target Words: 5010
+Response Words: 5010
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: |
+Target Words: 1
+Response Words: |
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: T4
+Target Words: T4
+Response Words: T4
+********************************
+Input Words: J25
+Target Words: J25
+Response Words: J25
+********************************
+Input Words: CD
+Target Words: CD
+Response Words: CD
+********************************
+Input Words: NVR
+Target Words: NVR
+Response Words: NVR
+********************************
+Input Words: 2
+Target Words: 2
+Response Words: 2
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: DG
+Target Words: DG
+Response Words: DG
+********************************
+Input Words: CNL
+Target Words: CNL
+Response Words: CNL
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: D-W
+Target Words: D-W
+Response Words: D-W
+********************************
+Input Words: 4
+Target Words: 2
+Response Words: 4
+********************************
+Input Words: 2
+Target Words: 2
+Response Words: 2
+********************************
+Input Words: C200
+Target Words: C200
+Response Words: C200
+********************************
+Input Words: OMP
+Target Words: OMP
+Response Words: OMP
+********************************
+Input Words: JI
+Target Words: JI
+Response Words: JI
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: J|Y
+Target Words: J|Y
+Response Words: J|Y
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: Noltec10
+Target Words: Noltec10
+Response Words: Noltec10
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: C|NI
+Target Words: C|NI
+Response Words: C|NI
+********************************
+Input Words: 952
+Target Words: 952
+Response Words: 952
+********************************
+Input Words: BK
+Target Words: BK
+Response Words: BK
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: NL
+Target Words: NL
+Response Words: NL
+********************************
+Input Words: jw
+Target Words: jw
+Response Words: jw
+********************************
+Input Words: ry
+Target Words: ry
+Response Words: ry
+********************************
+Input Words: 016
+Target Words: 012
+Response Words: 012
+********************************
+Input Words: HGH
+Target Words: HGH
+Response Words: HGH
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: SL8
+Target Words: SL8
+Response Words: SL8
+********************************
+Input Words: 012
+Target Words: 012
+Response Words: 012
+********************************
+Input Words: C|M
+Target Words: C|M
+Response Words: C|M
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: OMP
+Target Words: OMP
+Response Words: OMP
+********************************
+Input Words: A|G
+Target Words: A|G
+Response Words: A|G
+********************************
+Input Words: jw
+Target Words: jw
+Response Words: jw
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: NVR
+Target Words: NVR
+Response Words: NVR
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: S1
+Target Words: S1
+Response Words: S1
+********************************
+Input Words: G
+Target Words: G
+Response Words: C
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: PC
+Target Words: PC
+Response Words: PC
+********************************
+Input Words: A|M
+Target Words: A|M
+Response Words: A|M
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: 750
+Target Words: 750
+Response Words: 750
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: UT
+Target Words: UT
+Response Words: UT
+********************************
+Input Words: JN
+Target Words: jw
+Response Words: jw
+********************************
+Input Words: CD
+Target Words: CD
+Response Words: CD
+********************************
+Input Words: J25
+Target Words: J25
+Response Words: J25
+********************************
+Input Words: C
+Target Words: C
+Response Words: C
+********************************
+Input Words: DX
+Target Words: DX
+Response Words: DX
+********************************
+Input Words: J4
+Target Words: T4
+Response Words: J4
+********************************
+Input Words: 500
+Target Words: 500
+Response Words: 500
+********************************
+Input Words: J1
+Target Words: J1
+Response Words: J1
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: G
+Target Words: G
+Response Words: C
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: 20
+Target Words: JY
+Response Words: 20
+********************************
+Input Words: JY
+Target Words: 20
+Response Words: JY
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: H3
+Target Words: H3
+Response Words: H3
+********************************
+Input Words: ry
+Target Words: ry
+Response Words: ry
+********************************
+Input Words: NL
+Target Words: NL
+Response Words: NL
+********************************
+Input Words: C|NI
+Target Words: C|NI
+Response Words: C|NI
+********************************
+Input Words: S1
+Target Words: S1
+Response Words: S1
+********************************
+Input Words: J|Y
+Target Words: J|Y
+Response Words: J|Y
+********************************
+Input Words: 2510
+Target Words: 2510
+Response Words: 2510
+********************************
+Input Words: U1
+Target Words: JI
+Response Words: 24
+********************************
+Input Words: RS
+Target Words: RS
+Response Words: RS
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 20
+Target Words: 20
+Response Words: 20
+********************************
+Input Words: 20
+Target Words: JY
+Response Words: 20
+********************************
+Input Words: JY
+Target Words: 20
+Response Words: JY
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: 952
+Target Words: 952
+Response Words: 952
+********************************
+Input Words: 250
+Target Words: 250
+Response Words: 250
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 1000
+Target Words: 1000
+Response Words: 1000
+********************************
+Input Words: UT
+Target Words: UT
+Response Words: UT
+********************************
+Input Words: C
+Target Words: C
+Response Words: C
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: D|5
+Target Words: D|5
+Response Words: D|5
+********************************
+Input Words: BK
+Target Words: BK
+Response Words: BK
+********************************
+Input Words: SR
+Target Words: SR
+Response Words: SR
+********************************
+Input Words: A|M
+Target Words: A|M
+Response Words: A|M
+********************************
+Input Words: 50|
+Target Words: 150
+Response Words: 150
+********************************
+Input Words: 015
+Target Words: 015
+Response Words: 015
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: H|L
+Target Words: H|L
+Response Words: H|L
+********************************
+Input Words: C
+Target Words: C
+Response Words: C
+********************************
+Input Words: |
+Target Words: S
+Response Words: |
+********************************
+Input Words: NVR
+Target Words: NVR
+Response Words: NVR
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: COL
+Target Words: COL
+Response Words: COL
+********************************
+Input Words: ry
+Target Words: ry
+Response Words: ry
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: RN>
+Target Words: ANT
+Response Words: ANT
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: FB
+Target Words: FB
+Response Words: FB
+********************************
+Input Words: |
+Target Words: C
+Response Words: |
+********************************
+Input Words: 012
+Target Words: 012
+Response Words: 012
+********************************
+Input Words: NL
+Target Words: NL
+Response Words: NL
+********************************
+Input Words: 15
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: FB
+Target Words: FB
+Response Words: FB
+********************************
+Input Words: D.W
+Target Words: D.W
+Response Words: D.W
+********************************
+Input Words: BD
+Target Words: BD
+Response Words: BD
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: C|N2
+Target Words: C|N2
+Response Words: C|N2
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: D
+Target Words: D
+Response Words: D
+********************************
+Input Words: G40
+Target Words: G40
+Response Words: G40
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: C
+Target Words: G
+Response Words: C
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: r
+Target Words: D
+Response Words: T
+********************************
+Input Words: jw
+Target Words: jw
+Response Words: jw
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 81
+Target Words: 81
+Response Words: 81
+********************************
+Input Words: BK
+Target Words: BK
+Response Words: BK
+********************************
+Input Words: J|Y
+Target Words: J|Y
+Response Words: J|Y
+********************************
+Input Words: OMP
+Target Words: OMP
+Response Words: OMP
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: SEARLE
+Target Words: SEARLE
+Response Words: SEARLE
+********************************
+Input Words: 39
+Target Words: 39
+Response Words: 35
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: 3K
+Target Words: BK
+Response Words: BK
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: KH
+Target Words: KH
+Response Words: KH
+********************************
+Input Words: 021
+Target Words: 021
+Response Words: 021
+********************************
+Input Words: |
+Target Words: T
+Response Words: |
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: D
+Target Words: D
+Response Words: D
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: |
+Target Words: 2
+Response Words: |
+********************************
+Input Words: OMP
+Target Words: OMP
+Response Words: OMP
+********************************
+Input Words: J1
+Target Words: J1
+Response Words: J1
+********************************
+Input Words: D.W
+Target Words: D.W
+Response Words: D.W
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: D-W
+Target Words: D-W
+Response Words: D-W
+********************************
+Input Words: C|M
+Target Words: C|M
+Response Words: C|M
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: HTS
+Target Words: MTS
+Response Words: HT3
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: D-W
+Target Words: D-W
+Response Words: D-W
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: J1
+Target Words: J1
+Response Words: J1
+********************************
+Input Words: D.W
+Target Words: D.W
+Response Words: D.W
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: R|
+Target Words: SR
+Response Words: T|
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: J1
+Target Words: J1
+Response Words: J1
+********************************
+Input Words: 5010
+Target Words: 5010
+Response Words: 5010
+********************************
+Input Words: JTA
+Target Words: JTA
+Response Words: JTA
+********************************
+Input Words: Noltec10
+Target Words: Noltec10
+Response Words: Noltec10
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: UNITED
+Target Words: UNITED
+Response Words: UNITED
+********************************
+Input Words: 15
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: J25
+Target Words: J25
+Response Words: J25
+********************************
+Input Words: 5010
+Target Words: 5010
+Response Words: 5010
+********************************
+Input Words: RS
+Target Words: R5
+Response Words: RS
+********************************
+Input Words: IOL
+Target Words: 125
+Response Words: EL3
+********************************
+Input Words: 952
+Target Words: 952
+Response Words: 952
+********************************
+Input Words: 016
+Target Words: 016
+Response Words: 012
+********************************
+Input Words: DX
+Target Words: DX
+Response Words: DX
+********************************
+Input Words: C
+Target Words: C
+Response Words: C
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: 500
+Target Words: 500
+Response Words: 500
+********************************
+Input Words: 302
+Target Words: 302
+Response Words: 302
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: JTA
+Target Words: JTA
+Response Words: JTA
+********************************
+Input Words: 012
+Target Words: 012
+Response Words: 012
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: DX
+Target Words: DX
+Response Words: DX
+********************************
+Input Words: T|R
+Target Words: T|R
+Response Words: T|R
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: 008
+Target Words: 008
+Response Words: 008
+********************************
+Input Words: UNITED
+Target Words: UNITED
+Response Words: UNITED
+********************************
+Input Words: S50
+Target Words: S50
+Response Words: S50
+********************************
+Input Words: CNL
+Target Words: CNL
+Response Words: CNL
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: S50
+Target Words: S50
+Response Words: S50
+********************************
+Input Words: SL8
+Target Words: SL8
+Response Words: SL8
+********************************
+Input Words: D5
+Target Words: D5
+Response Words: D5
+********************************
+Input Words: 952
+Target Words: 952
+Response Words: 952
+********************************
+Input Words: 81
+Target Words: 81
+Response Words: 81
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: ry
+Target Words: ry
+Response Words: ry
+********************************
+Input Words: 4
+Target Words: 2
+Response Words: 4
+********************************
+Input Words: C|NI
+Target Words: C|NI
+Response Words: C|NI
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: A|M
+Target Words: A|M
+Response Words: A|M
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: AD
+Target Words: AD
+Response Words: AD
+********************************
+Input Words: XN>
+Target Words: ANT
+Response Words: ANT
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: D
+Target Words: D
+Response Words: D
+********************************
+Input Words: C|N2
+Target Words: C|N2
+Response Words: C|N2
+********************************
+Input Words: |
+Target Words: D
+Response Words: |
+********************************
+Input Words: ry
+Target Words: ry
+Response Words: ry
+********************************
+Input Words: DG
+Target Words: DG
+Response Words: DG
+********************************
+Input Words: 015
+Target Words: 015
+Response Words: 015
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 015
+Target Words: 015
+Response Words: 015
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: 012
+Target Words: 012
+Response Words: 012
+********************************
+Input Words: TG
+Target Words: TG
+Response Words: TG
+********************************
+Input Words: 125
+Target Words: 125
+Response Words: 125
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: UNITED
+Target Words: UNITED
+Response Words: UNITED
+********************************
+Input Words: ANA275
+Target Words: ANA275
+Response Words: ANA275
+********************************
+Input Words: 550
+Target Words: S50
+Response Words: 750
+********************************
+Input Words: Cossac-L
+Target Words: Cossac-L
+Response Words: Cossac-L
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: 1
+Target Words: 1
+Response Words: 1
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: 2
+Target Words: 2
+Response Words: 2
+********************************
+Input Words: UT
+Target Words: UT
+Response Words: UT
+********************************
+Input Words: OMP
+Target Words: OMP
+Response Words: OMP
+********************************
+Input Words: CICOR
+Target Words: CICOR
+Response Words: CICOR
+********************************
+Input Words: HEARLH
+Target Words: SEARLE
+Response Words: SEARLE
+********************************
+Input Words: 30
+Target Words: 39
+Response Words: 30
+********************************
+Input Words: ry
+Target Words: ry
+Response Words: ry
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: X|S
+Target Words: X|S
+Response Words: X|S
+********************************
+Input Words: MTS
+Target Words: MTS
+Response Words: MTS
+********************************
+Input Words: 20
+Target Words: 20
+Response Words: 20
+********************************
+Input Words: 008
+Target Words: 008
+Response Words: 008
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 018
+Target Words: 018
+Response Words: 018
+********************************
+Input Words: UT
+Target Words: UT
+Response Words: UT
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: D5
+Target Words: D5
+Response Words: D5
+********************************
+Input Words: JI
+Target Words: JI
+Response Words: JI
+********************************
+Input Words: C|NI
+Target Words: C|NI
+Response Words: C|NI
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: AZ
+Target Words: AZ
+Response Words: AG
+********************************
+Input Words: D5
+Target Words: D5
+Response Words: D5
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: 994
+Target Words: 952
+Response Words: 952
+********************************
+Input Words: J|Y
+Target Words: J|Y
+Response Words: J|Y
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: X|S
+Target Words: X|S
+Response Words: X|S
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: D.W
+Target Words: D.W
+Response Words: D.W
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: X|S
+Target Words: X|S
+Response Words: X|S
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: PC
+Target Words: PC
+Response Words: PC
+********************************
+Input Words: CG
+Target Words: CG
+Response Words: CG
+********************************
+Input Words: D.W
+Target Words: D.W
+Response Words: D.W
+********************************
+Input Words: 1
+Target Words: 1
+Response Words: 1
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: D|S
+Target Words: D|S
+Response Words: D|S
+********************************
+Input Words: 80
+Target Words: 80
+Response Words: 80
+********************************
+Input Words: H||
+Target Words: B|M
+Response Words: B|M
+********************************
+Input Words: >|N5
+Target Words: C|N2
+Response Words: C|N2
+********************************
+Input Words: COL
+Target Words: COL
+Response Words: COL
+********************************
+Input Words: OMP
+Target Words: OMP
+Response Words: OMP
+********************************
+Input Words: JI
+Target Words: JI
+Response Words: JI
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: RS
+Target Words: RS
+Response Words: RS
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: H|3
+Target Words: H|3
+Response Words: H|3
+********************************
+Input Words: J1
+Target Words: J1
+Response Words: J1
+********************************
+Input Words: G
+Target Words: G
+Response Words: C
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: D.W
+Target Words: D.W
+Response Words: D.W
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: CD
+Target Words: CD
+Response Words: CD
+********************************
+Input Words: 40
+Target Words: 40
+Response Words: 40
+********************************
+Input Words: SL8
+Target Words: SL8
+Response Words: SL8
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: 302
+Target Words: 302
+Response Words: 302
+********************************
+Input Words: AV
+Target Words: AV
+Response Words: AZ
+********************************
+Input Words: D-W
+Target Words: D-W
+Response Words: D-W
+********************************
+Input Words: GDOR
+Target Words: GDOR
+Response Words: GDOR
+********************************
+Input Words: RS
+Target Words: JY
+Response Words: RS
+********************************
+Input Words: JY
+Target Words: RS
+Response Words: JY
+********************************
+Input Words: AT
+Target Words: AT
+Response Words: AT
+********************************
+Input Words: DX
+Target Words: DX
+Response Words: DX
+********************************
+Input Words: 1000
+Target Words: 1000
+Response Words: 1000
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: |
+Target Words: 2
+Response Words: |
+********************************
+Input Words: AZ
+Target Words: AZ
+Response Words: AG
+********************************
+Input Words: 5010
+Target Words: 5010
+Response Words: 5010
+********************************
+Input Words: D
+Target Words: D
+Response Words: D
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 75
+Target Words: 75
+Response Words: 75
+********************************
+Input Words: JI
+Target Words: JI
+Response Words: JI
+********************************
+Input Words: B|M
+Target Words: B|M
+Response Words: B|M
+********************************
+Input Words: H|3
+Target Words: H|3
+Response Words: H|3
+********************************
+Input Words: |
+Target Words: D
+Response Words: |
+********************************
+Input Words: B|K
+Target Words: B|K
+Response Words: B|K
+********************************
+Input Words: DX
+Target Words: DX
+Response Words: DX
+********************************
+Input Words: MTS
+Target Words: MTS
+Response Words: MTS
+********************************
+Input Words: 250
+Target Words: 250
+Response Words: 250
+********************************
+Input Words: 500
+Target Words: 500
+Response Words: 500
+********************************
+Input Words: jw
+Target Words: jw
+Response Words: jw
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: 81
+Target Words: 81
+Response Words: 81
+********************************
+Input Words: FB
+Target Words: FB
+Response Words: FB
+********************************
+Input Words: PC
+Target Words: PC
+Response Words: PC
+********************************
+Input Words: A|G
+Target Words: A|G
+Response Words: A|G
+********************************
+Input Words: PC
+Target Words: PC
+Response Words: PC
+********************************
+Input Words: SL8
+Target Words: SL8
+Response Words: SL8
+********************************
+Input Words: CD
+Target Words: CD
+Response Words: CD
+********************************
+Input Words: AD
+Target Words: AD
+Response Words: AD
+********************************
+Input Words: |N
+Target Words: 50
+Response Words: |0
+********************************
+Input Words: |K
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: J1
+Target Words: J1
+Response Words: J1
+********************************
+Input Words: AT
+Target Words: AT
+Response Words: AT
+********************************
+Input Words: J
+Target Words: 4
+Response Words: T
+********************************
+Input Words: SK
+Target Words: SK
+Response Words: SK
+********************************
+Input Words: DX
+Target Words: DX
+Response Words: DX
+********************************
+Input Words: C|S
+Target Words: X|S
+Response Words: X|S
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: DG
+Target Words: DG
+Response Words: DG
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: 10
+Target Words: 10
+Response Words: 10
+********************************
+Input Words: 1
+Target Words: 1
+Response Words: 1
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: D
+Target Words: D
+Response Words: D
+********************************
+Input Words: C|M
+Target Words: C|M
+Response Words: C|M
+********************************
+Input Words: Hanmi
+Target Words: Hanmi
+Response Words: Hanmi
+********************************
+Input Words: 5
+Target Words: 5
+Response Words: 5
+********************************
+Input Words: 500
+Target Words: 500
+Response Words: 500
+********************************
+Input Words: C4
+Target Words: T4
+Response Words: CL
+********************************
+Input Words: BK
+Target Words: BK
+Response Words: BK
+********************************
+Input Words: J25
+Target Words: J25
+Response Words: J25
+********************************
+Input Words: G40
+Target Words: G40
+Response Words: G40
+********************************
+Input Words: JY
+Target Words: JY
+Response Words: JY
+********************************
+Input Words: Y|H
+Target Words: Y|H
+Response Words: Y|H
+********************************
+Input Words: S
+Target Words: S
+Response Words: S
+********************************
+Input Words: |
+Target Words: |
+Response Words: |
+********************************
+Input Words: COL
+Target Words: COL
+Response Words: COL
+********************************
+Input Words: 81
+Target Words: 81
+Response Words: 81
+********************************
+Input Words: C|NI
+Target Words: C|NI
+Response Words: C|NI
+********************************
+Input Words: CKD
+Target Words: CKD
+Response Words: CKD
+********************************
+Input Words: G
+Target Words: G
+Response Words: C
+********************************
+Input Words: 50
+Target Words: 50
+Response Words: 50
+********************************
+Input Words: R5
+Target Words: R5
+Response Words: R5
+********************************
+Input Words: DX
+Target Words: DX
+Response Words: DX
+********************************
+Input Words: H3
+Target Words: H3
+Response Words: H3

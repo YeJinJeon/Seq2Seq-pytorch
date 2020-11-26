@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+
+checkpoints/
+checkpoints_dropout/
+logs/
+logs_dropout/
