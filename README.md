@@ -1,20 +1,36 @@
 # Seq2Seq-pytorch
 A Pytroch Seq2Seq model implementation for spelling checker
 
-<h2>Installation</h2>
+## Installation
 <ul>
   <li>Install PyTorch by selecting your environment on the website and running the appropriate command.
   <li>Clone this repository
 </ul>
 
-<h2>Datasets</h2>
+## Datasets
+There is some example of train dataset in /data directory
+### data
+<ul>
+  <li>source.txt: list of words I want to fix 
+  <li>target.txt: labels of each word in source.txt 
+</ul>
 
-<h2>Training & Evaluation</h2>
+## Training & Test
+### train
+<ol>
+  <li> change the data paths and other hyperparameters in train.py
+  <li> run python train.py
+</ol>
+### test
+<ol>
+  <li> change the data paths in test.py
+  <li> run python test.py
+</ol>
 
-<h2>Authors</h2>
+## Authors
 Yejin Jeon
 
-<h2>reference</h2>
+## reference
 <ul>
   <li>https://github.com/bentrevett/pytorch-seq2seq/blob/master/1%20-%20Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.ipynb
   <li>https://github.com/mdcramer/deep-learning/blob/master/seq2seq/sequence_to_sequence_implementation.ipynb
