@@ -11,17 +11,17 @@ A Pytroch Seq2Seq model implementation for spelling checker
 There is some example of train dataset in /data directory
 ### data
 <ul>
-  <li>source.txt: list of words I want to fix 
+  <li>source.txt: list of words I want to modify
   <li>target.txt: labels of each word in source.txt 
 </ul>
 
-## Training & Test
-### train
+## Training & Testing
+<h3>train</h3>
 <ol>
   <li> change the data paths and other hyperparameters in train.py
   <li> run python train.py
 </ol>
-### test
+<h3>test</h3>
 <ol>
   <li> change the data paths in test.py
   <li> run python test.py
